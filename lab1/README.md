@@ -147,13 +147,13 @@ freed. `-g` in the build is what gives you those file:line numbers.
 
 ## 8. Definition of done
 
-- [ ] `make` and `make CC=clang` both compile with **zero** warnings.
-- [ ] `make run` prints the seven-token Belize stream.
-- [ ] `make valgrind` ends with `0 errors` and `0 bytes` in use at exit.
-- [ ] `make sanitize` runs with no ASan/UBSan reports.
-- [ ] `make format-check` passes.
-- [ ] `make dot` produces a correct `tokens.png`.
-- [ ] Write-up complete.
+- [x] `make` and `make CC=clang` both compile with **zero** warnings.
+- [x] `make run` prints the seven-token Belize stream.
+- [x] `make valgrind` ends with `0 errors` and `0 bytes` in use at exit.
+- [x] `make sanitize` runs with no ASan/UBSan reports.
+- [x] `make format-check` passes.
+- [x] `make dot` produces a correct `tokens.png`.
+- [x] Write-up complete.
 
 ## 9. References
 
